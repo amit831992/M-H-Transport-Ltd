@@ -3,7 +3,6 @@ nav {
     float: left;
     list-style: lower-roman;
     display: flex;
-    background-color: aliceblue;
     font: bolder;
     width: 100%;
     text-decoration: none;
